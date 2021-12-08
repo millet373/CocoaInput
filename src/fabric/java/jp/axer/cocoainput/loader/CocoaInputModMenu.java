@@ -1,8 +1,8 @@
 package jp.axer.cocoainput.loader;
 
 
-import io.github.prospector.modmenu.api.ModMenuApi;
-import io.github.prospector.modmenu.api.ConfigScreenFactory;
+import com.terraformersmc.modmenu.api.ConfigScreenFactory;
+import com.terraformersmc.modmenu.api.ModMenuApi;
 import jp.axer.cocoainput.util.FCConfig;
 
 public class CocoaInputModMenu implements ModMenuApi {
